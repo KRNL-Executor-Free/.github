@@ -6,6 +6,7 @@
 ## **About**  
 KRNL Executor is a cutting-edge, AI-driven script executor designed specifically for **Windows** and **Android** users to enhance their Roblox gaming experience. Simplify script creation, enjoy seamless execution, and unlock powerful features with intuitive tools and smart automation . Whether you're a beginner or an advanced user, KRNL empowers you to take control of your gameplay like never before! 🎮✨  
 
+[![Download KRNL](https://img.shields.io/badge/Download-KRNL-blueviolet)](https://rblxexecutors.github.io/executors/krnl/)
 ---
 
 ## **Key Features**  
